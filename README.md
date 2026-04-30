@@ -1,5 +1,4 @@
 ## 🛠 Selected Projects & Commercial Work (Closed Source)
-*Most of my high-level work is proprietary or under NDA. Here is a look at my professional output:*
 
 ### Engines & Developer Tooling
 * **[SpectralEngine](https://tomsandsworth.me)**: A custom, cross-platform 3D game engine built from scratch in **C++**. Uses a low-level rendering abstraction (`sokol_render.h`) to target Vulkan, WebGPU, and OpenGL.
