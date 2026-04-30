@@ -1,10 +1,3 @@
-# Hi, I'm Tom Sandsworth 👋
-### Creative Technologist | Software Engineer | Engine Architect
-
-I specialize in building high-performance systems where **low-level engineering** meets **creative tooling**. Whether it's architecting custom C++ rendering engines or building AI-driven workflow tools for Unity, I focus on performance, scalability, and developer experience.
-
----
-
 ## 🛠 Selected Projects & Commercial Work (Closed Source)
 *Most of my high-level work is proprietary or under NDA. Here is a look at my professional output:*
 
